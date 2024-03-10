@@ -1,16 +1,16 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**stasink/stasink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Banner](https://svg-banners.vercel.app/api?type=rainbow&text1=sitiom%20&width=800&height=400)](https://github.com/stasink)
 
-Here are some ideas to get you started:
+[![Keyoxide:9763AE10706A1E8FCF74E5AEF6FD3820BCBC1A98](https://img.shields.io/badge/Keyoxide-F6FD%203820%20BCBC%201A98-blue?logo=keybase)](https://keyoxide.org/9763AE10706A1E8FCF74E5AEF6FD3820BCBC1A98)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Donate using Liberapay](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/sitiom)
+
+[![Counter](https://visitor-badge.laobi.icu/badge?page_id=sitiom.sitiom)](https://github.com/sitiom)
+![GitHub User's stars](https://img.shields.io/github/stars/sitiom?affiliations=OWNER%2CCOLLABORATOR&label=GH%20stars)
+
+[![Snake Graph](https://raw.githubusercontent.com/sitiom/sitiom/assets/github-snake.svg)](https://github.com/sitiom)
+
+[![Metrics](https://raw.githubusercontent.com/sitiom/sitiom/assets/github-metrics.svg)](https://github.com/sitiom)
+
+</div>
