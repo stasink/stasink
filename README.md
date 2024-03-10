@@ -7,6 +7,4 @@
 
 [![Snake Graph](https://raw.githubusercontent.com/sitiom/sitiom/assets/github-snake.svg)](https://github.com/stasink)
 
-[![Metrics](https://raw.githubusercontent.com/stasink/stasink/assets/github-metrics.svg)](https://github.com/stasink)
-
 </div>
