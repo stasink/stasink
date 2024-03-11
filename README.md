@@ -1,12 +1,12 @@
-<div align="center"><img width="100%" alt="welcome to my profile!" src="https://github.com/Carol42/Carol42/blob/main/assets/header.png"></div>
+<div align="center"><img width="100%" alt="welcome to my profile!" src="https://github.com/Carol42/Carol42/blob/main/assets/header.png">
+<a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Russo+One&size=36&duration=3000&pause=2000&color=A142F7&center=true&vCenter=true&random=true&width=800&lines=Российский+Full-Stack+разработчик;Обучаю+Нейронные+сети;Системы+управления+взаимоотношениями;Приложений+Windows,+Linux,+IOS,+Android"alt="TypingSVG"/></a></div>
+
 
 <div align="center">
 
 [![Banner](https://svg-banners.vercel.app/api?type=rainbow&text1=St@s ink.%20&width=800&height=400)](https://github.com/stasink)
 
 [![Counter](https://visitor-badge.laobi.icu/badge?page_id=stasink.stasink)](https://github.com/stasink)
-
-[![User's stars](https://img.shields.io/github/stars/sitiom?affiliations=OWNER%2CCOLLABORATOR&label=GH%20stars)
 
 [![Snake Graph](https://raw.githubusercontent.com/sitiom/sitiom/assets/github-snake.svg)](https://github.com/stasink)
 
