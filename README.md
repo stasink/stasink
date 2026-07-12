@@ -8,7 +8,7 @@
 
 [![Counter](https://visitor-badge.laobi.icu/badge?page_id=stasink.stasink)](https://github.com/stasink)
 
-<img src="https://camo.githubusercontent.com/57f8e358c5225a8a1a8735acdfbbd710d5dc92c0599dcffd2726d23d0afc4b69/68747470733a2f2f74726f706879676974687562726561646d656c616e672e63796265652e6470646e732e6f72672f3f757365726e616d653d43796265726265652d70726f267468656d653d61757261" alt="cyberbee-pro" data-canonical-src="https://trophygithubreadmelang.cybee.dpdns.org/?username=Cyberbee-pro&amp;theme=aura" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/57f8e358c5225a8a1a8735acdfbbd710d5dc92c0599dcffd2726d23d0afc4b69/68747470733a2f2f74726f706879676974687562726561646d656c616e672e63796265652e6470646e732e6f72672f3f757365726e616d653d43796265726265652d70726f267468656d653d61757261" alt="St@s ink. Developers Crew" data-canonical-src="https://trophygithubreadmelang.cybee.dpdns.org/?username=Cyberbee-pro&amp;theme=aura" style="max-width: 70%;">
 
 <h3 align="center">Языки и инструменты:</h3>
 
