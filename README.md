@@ -1,5 +1,5 @@
 <div align="center"><img width="100%" alt="welcome to my profile!" src="https://github.com/Carol42/Carol42/blob/main/assets/header.png">
-[![TypingSVG](https://readme-typing-svg.demolab.com?font=Russo+One&size=16&pause=1000&center=true&vCenter=true&width=500&lines=Российский+Full-Stack+разработчик;+Нейронные+сети,+Управление+бизнес-процессами;Приложения+Windows,+Linux,+IOS,+Android)]
+[![TypingSVG](https://readme-typing-svg.demolab.com?font=Russo+One&size=16&pause=1000&center=true&vCenter=true&width=500&lines=Российский+Full-Stack+разработчик;+Нейронные+сети,+Управление+бизнес-процессами;Приложения+Windows,+Linux,+IOS,+Android)](https://git.io/typing-svg)
 
 
 <div align="center">
